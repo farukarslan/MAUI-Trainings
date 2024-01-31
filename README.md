@@ -17,3 +17,8 @@ Apps contains this usages;
 
 #### Tip Calculator Grid App
 - Grid Layout
+
+#### Tip Calculator Resources App
+- Static and dynamic resources
+- Styles
+- Page-level and application-wide resources
