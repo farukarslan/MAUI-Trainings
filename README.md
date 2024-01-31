@@ -14,3 +14,6 @@ Apps contains this usages;
 #### Tip Calculator App
 - HorizontalStackLayout
 - VerticalStackLayout
+
+#### Tip Calculator Grid App
+- Grid Layout
